@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="8" viewBox="0 0 14 8">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M7,5.586,1.707.293A1,1,0,0,0,.293,1.707l6,6a1,1,0,0,0,1.414,0l6-6A1,1,0,0,0,12.293.293Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path)">
+    <g id="colors_crusader" data-name="colors / crusader" transform="translate(-5 -8)">
+      <rect id="Rectangle" width="24" height="24" fill="#d7d7d7"/>
+    </g>
+  </g>
+</svg>
